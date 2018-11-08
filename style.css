@@ -1,7 +1,8 @@
 .sticky {
   position: fixed;
   top: 0;
-  width: 100%
+  width: 100%;
+  z-index:5
 }
 
 
@@ -15,10 +16,10 @@
 }
 
 
-/* .pics{
+.pics{
   max-height: px;
   max-width: 1000px;
-} */
+}
 
 body {
     /* background-image: image(/home/blake/Galvanize/Q1-Project/rescources/Tanner.jpg);
@@ -41,12 +42,11 @@ body {
     background-color: grey;
 }
 
-/* .skate{
+.skate{
   height: 750px;
-  width: 900px; */
-/* } */
+  width: 900px;
+ }
 
 .Submit{
-  margin-left: 35%;
   background-color: grey;
 }

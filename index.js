@@ -8,5 +8,9 @@ document.addEventListener('DOMContentLoaded', function () {
     event.preventDefault()
     let form = document.getElementById('email-input').value
     localStorage.setItem('email', form)
+    let savedEmail = localStorage.getItem("email")
+    console.log(savedEmail);
+    M.toast({html: `${savedEmail}`})
+
   })
 })
