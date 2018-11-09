@@ -1,0 +1,52 @@
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index:5
+}
+
+
+
+
+
+
+.navbarlogo {
+  max-height:60px;
+  max width:60px;
+}
+
+
+.pics{
+  max-height: px;
+  max-width: 1000px;
+}
+
+body {
+    /* background-image: image(/home/blake/Galvanize/Q1-Project/rescources/Tanner.jpg);
+    max-height: 1000px;
+    max-width: 2000px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background-color: black;
+
+}
+#button{
+    height:40px;
+    width:175px;
+    margin: 20px -100px;
+    position: center;
+    top:50%;
+    left:50%;
+    background-color: grey;
+}
+
+.skate{
+  height: 750px;
+  width: 900px;
+ }
+
+.Submit{
+  background-color: grey;
+}
