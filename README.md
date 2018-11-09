@@ -3,6 +3,7 @@ Q1 project for Galvanize (a team rider page for descentlongboards.com)
 
 [Deployed link](http://google.com/)
 
+
 ### Wireframes
 [Wireframes](https://wireframe.cc/S1qO5V)
 
@@ -12,11 +13,11 @@ Q1 project for Galvanize (a team rider page for descentlongboards.com)
 [Color Scheme](http://coolors.co/220901-621708-941b0c-bc3908-f6aa1c)
 ```
 /* RGB */
-$color1: rgba(34, 9, 1, 1);
-$color2: rgba(98, 23, 8, 1);
-$color3: rgba(148, 27, 12, 1); //main
-$color4: rgba(188, 57, 8, 1);
-$color5: rgba(246, 170, 28, 1);
+$color1: #070707;
+$color2: #000307;
+$color3: #000000; //main
+$color4: #1E1E1E;
+$color5: #212121;
 ```
 
 Fonts: Oswald & Quattrocento (example below)
